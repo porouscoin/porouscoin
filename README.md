@@ -1,12 +1,6 @@
-<div align="center">
-
 <img src="assets/banner.png" alt="Ziyad Hisham, AI engineer" width="100%">
 
-<br><br>
-
-[![Website](https://img.shields.io/badge/ziyadhisham.com-111111?style=for-the-badge&logo=googlechrome&logoColor=b6f24a)](https://ziyadhisham.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=b6f24a)](https://www.linkedin.com/in/ziyad-hisham-0710081b7)
-
-</div>
+<a href="https://ziyadhisham.com"><img src="assets/btn-website.png" alt="ziyadhisham.com" height="40"></a>&nbsp;<a href="https://www.linkedin.com/in/ziyad-hisham-0710081b7"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="40"></a>
 
 I build LLM agents and the systems around them: tool calling, guardrails, routing between models, and deployment.
 
