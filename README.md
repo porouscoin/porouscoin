@@ -1,12 +1,14 @@
 <div align="center">
 
-# Ziyad Hisham
+<img src="assets/banner.png" alt="Ziyad Hisham, AI engineer" width="100%">
 
-**AI engineer.** I build LLM agents and the systems around them: tool calling, guardrails, routing between models, and deployment.
+<br><br>
 
-[![Website](https://img.shields.io/badge/ziyadhisham.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ziyadhisham.com)
+[![Website](https://img.shields.io/badge/ziyadhisham.com-111111?style=for-the-badge&logo=googlechrome&logoColor=b6f24a)](https://ziyadhisham.com)
 
 </div>
+
+I build LLM agents and the systems around them: tool calling, guardrails, routing between models, and deployment.
 
 Recently I worked remotely on AI agent products, including an agent platform connected to 15 apps over MCP and a two-level model router.
 
@@ -35,3 +37,11 @@ Recently I worked remotely on AI agent products, including an agent platform con
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Certifications:** AWS Certified Cloud Practitioner, AWS Certified AI Practitioner
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/porouscoin/porouscoin/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/porouscoin/porouscoin/output/snake-light.svg">
+  <img alt="Contribution graph as a snake" src="https://raw.githubusercontent.com/porouscoin/porouscoin/output/snake-dark.svg">
+</picture>
