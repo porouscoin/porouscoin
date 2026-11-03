@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![Website](https://img.shields.io/badge/ziyadhisham.com-111111?style=for-the-badge&logo=googlechrome&logoColor=b6f24a)](https://ziyadhisham.com)
+[![Website](https://img.shields.io/badge/ziyadhisham.com-111111?style=for-the-badge&logo=googlechrome&logoColor=b6f24a)](https://ziyadhisham.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=b6f24a)](https://www.linkedin.com/in/ziyad-hisham-0710081b7)
 
 </div>
 
