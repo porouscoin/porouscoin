@@ -1,6 +1,8 @@
 <img src="assets/banner.png" alt="Ziyad Hisham, AI engineer" width="100%">
 
+<p align="center">
 <a href="https://ziyadhisham.com"><img src="assets/btn-website.png" alt="ziyadhisham.com" height="40"></a>&nbsp;<a href="https://www.linkedin.com/in/ziyad-hisham-0710081b7"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="40"></a>
+</p>
 
 I build LLM agents and the systems around them: tool calling, guardrails, routing between models, and deployment.
 
