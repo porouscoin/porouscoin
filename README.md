@@ -1,16 +1,16 @@
-## Hi there 👋
+Ziyad Hisham
+AI engineer. I build LLM agents and the systems around them: tool calling, guardrails, routing between models, and deployment.
 
-<!--
-**porouscoin/porouscoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recently I worked remotely on AI agent products, including an agent platform connected to 15 apps over MCP and a two-level model router.
 
-Here are some ideas to get you started:
+Projects
+Break my agent (live): a prompt-injection game against a tool-using agent, with 5 levels of defenses and a live trace. Own Python harness, FastAPI, Next.js, Supabase.
+Repo Atlas (live): any public GitHub repo as an interactive map, with history playback and an AI guide that points you to the right files.
+Marketing funnel agent (live): turns a product page into ads, landing copy, and emails, then scores them with a synthetic buyer panel.
+AI Conversation Simulator (live): practice conversations against AI personas.
+resembl (site): research paper similarity search with embeddings, topic modeling, and RAG. Final year project.
+Stack
+Python, TypeScript, FastAPI, Next.js, Supabase, Postgres, AWS (Certified Cloud Practitioner, AI Practitioner), Terraform, Docker, Kubernetes, Vercel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+ziyadhisham.com · LinkedIn
